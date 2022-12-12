@@ -1,7 +1,4 @@
-### Hello there, I'm Gabrielle 👋
-
-
-**LeivasGabi/LeivasGabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Hello there, I'm Gabrielle ✨
 
 - 🔭 I’m currently working with mobile development
 - 🌱 I’m currently learning kotlin language
